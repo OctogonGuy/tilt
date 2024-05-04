@@ -1,0 +1,1 @@
+Tilt is a multi-dimensional logic game by ThinkFun. Your goal is to get the green slider(s) to drop through the center hole. You move the pieces by tilting the game grid by pressing the arrow buttons. The pieces travel fully across the board with each move. The gray blockers do not move. Blue sliders must stay on the grid; if you sink one by mistake, you must start over.

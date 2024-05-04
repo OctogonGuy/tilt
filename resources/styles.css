@@ -1,0 +1,11 @@
+.arrow.active {
+	-fx-cursor: hand;
+}
+
+.arrow.active:hover {
+	-fx-background-color: #00000010;
+}
+
+.arrow.active:pressed {
+	-fx-background-color: #00000020;
+}
